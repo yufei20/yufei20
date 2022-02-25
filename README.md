@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yufei20 , an undergraduate student
+- 👋 Hi, I’m @JYOTI, an undergraduate student
 - 👀 I’m interested in coding and learning more coding skills
 - 🌱 I’m currently learning web development and machine learning
 - 💞️ I’m looking to collaborate on web development projects
